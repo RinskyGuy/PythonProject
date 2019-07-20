@@ -1,0 +1,15 @@
+# PythonProject
+
+Functions (task 1):
+	The purpose of Task 1 is to imitate a bank application.
+	The application has functions for creating accounts, transfer money, deposit, 
+  withdrawal and transactions log.
+
+Search and Analytics (task 2):
+	The purpose of Task 2 is to show words which include/exclude a specific letter (char)
+  entered by the user. It iterates through the file and returns words that match the 
+  user’s input. 
+
+  User sets the type of search (include/exclude) by radio buttons. The application 
+  also includes an analytic bar graph displaying frequency of each letter existing in 
+  the database (this was limited to letters from A to J due to assignment constraints)
